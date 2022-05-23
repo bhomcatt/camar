@@ -1,0 +1,17 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#start{
+    font-size: 18px;
+}
+
+#number_of_objects{
+    font-size: 18px;
+    margin: 20px;
+}
+
+#status{
+    font-size: 18;
+}
